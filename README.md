@@ -8,4 +8,5 @@ App User segmentation is the task of grouping users based on how they engage wit
 This helps us find retained users, find the appropriate user segment for marketing campaign, and solve other business problems from customer side.
 
 Let's now dive in...
+
 Happy Coding
